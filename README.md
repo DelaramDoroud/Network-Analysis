@@ -1,3 +1,7 @@
+# 📊 Network Analysis Assignments
+
+This repository contains three assignments completed for the **Network Analysis** course (Academic Year 2024/2025).  
+The projects focus on analyzing the **Email-Eu-core** dataset and studying important aspects of complex networks, including **community detection**, **social contagion**, and **robustness**.
 
 ---
 
